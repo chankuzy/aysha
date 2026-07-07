@@ -5,6 +5,7 @@ import Scene1Intro from './components/scenes/Scene1Intro'
 import Scene2Stars from './components/scenes/Scene2Stars'
 import Scene3Name from './components/scenes/Scene3Name'
 import Scene4Memories from './components/scenes/Scene4Memories'
+import SceneGallery from './components/scenes/SceneGallery'
 import Scene5Anticipation from './components/scenes/Scene5Anticipation'
 import Scene6Explosion from './components/scenes/Scene6Explosion'
 import Scene7Bubbles from './components/scenes/Scene7Bubbles'
@@ -16,6 +17,7 @@ const SCENES = [
   Scene2Stars,
   Scene3Name,
   Scene4Memories,
+  SceneGallery,
   Scene5Anticipation,
   Scene6Explosion,
   Scene7Bubbles,
